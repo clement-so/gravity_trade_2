@@ -1,0 +1,1 @@
+This is where report related files are stored (Tableau, Qlik, graphs etc.)

@@ -1,0 +1,1 @@
+This were the config files are stored (paths, tokens, api_keys, etc.)
